@@ -95,10 +95,10 @@ graph TB
     
     H -.Transition.-> I
     
-    style A fill:#e1f5ff
-    style I fill:#ffe1e1
-    style M fill:#fff4e1
-    style O fill:#e1ffe1
+    style A fill:#b3d9f2
+    style I fill:#f2b3b3
+    style M fill:#f2e0b3
+    style O fill:#b3f2b3
 ```
 
 **Key Achievements:**
@@ -126,8 +126,8 @@ graph LR
     F --> G[Precise Specifications]
     G --> D
     
-    style C fill:#ffcccc
-    style D fill:#ccffcc
+    style C fill:#d9b3b3
+    style D fill:#b3d9b3
 ```
 
 **Technical Contributions:**
@@ -188,9 +188,9 @@ graph TD
     
     G --> H
     
-    style E fill:#ffebcc
-    style F fill:#ffcccc
-    style H fill:#ccffcc
+    style E fill:#e6d9c2
+    style F fill:#d9b3b3
+    style H fill:#b3d9b3
 ```
 
 **Responsibilities:**
@@ -238,9 +238,9 @@ graph TB
     
     I --> J
     
-    style E fill:#e1f5ff
-    style I fill:#ccffcc
-    style O fill:#ffe1cc
+    style E fill:#b3d9f2
+    style I fill:#b3d9b3
+    style O fill:#f2d9b3
 ```
 
 **Technical Excellence:**
@@ -291,9 +291,9 @@ flowchart TB
     
     N --> O
     
-    style E fill:#ffe1e1
-    style I fill:#ffcccc
-    style R fill:#e1ffe1
+    style E fill:#f2b3b3
+    style I fill:#d9b3b3
+    style R fill:#b3f2b3
 ```
 
 **Mission-Critical Achievements:**
@@ -310,7 +310,7 @@ flowchart TB
 ## 🛠️ Technical Skills Matrix
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ff6b6b', 'primaryTextColor':'#fff', 'primaryBorderColor':'#c92a2a', 'lineColor':'#fa5252', 'secondaryColor':'#339af0', 'tertiaryColor':'#51cf66'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#8B7355', 'primaryTextColor':'#fff', 'primaryBorderColor':'#5D4E37', 'lineColor':'#A0826D', 'secondaryColor':'#5B7C99', 'tertiaryColor':'#6B8E6B'}}}%%
 mindmap
   root((Timothy Spurlin<br/>Technical Skills))
     Software Engineering
@@ -396,22 +396,22 @@ graph LR
         P1[Threat Hunting] --> P2[96%]
     end
     
-    style A2 fill:#4caf50
-    style B2 fill:#4caf50
-    style C2 fill:#4caf50
-    style D2 fill:#4caf50
-    style E2 fill:#2196f3
-    style F2 fill:#2196f3
-    style G2 fill:#2196f3
-    style H2 fill:#2196f3
-    style I2 fill:#ff9800
-    style J2 fill:#ff9800
-    style K2 fill:#ff9800
-    style L2 fill:#ff9800
-    style M2 fill:#f44336
-    style N2 fill:#f44336
-    style O2 fill:#f44336
-    style P2 fill:#f44336
+    style A2 fill:#6B8E6B
+    style B2 fill:#6B8E6B
+    style C2 fill:#6B8E6B
+    style D2 fill:#6B8E6B
+    style E2 fill:#5B7C99
+    style F2 fill:#5B7C99
+    style G2 fill:#5B7C99
+    style H2 fill:#5B7C99
+    style I2 fill:#A0826D
+    style J2 fill:#A0826D
+    style K2 fill:#A0826D
+    style L2 fill:#A0826D
+    style M2 fill:#8B7355
+    style N2 fill:#8B7355
+    style O2 fill:#8B7355
+    style P2 fill:#8B7355
 ```
 
 ---
@@ -458,9 +458,9 @@ graph TB
     H --> I
     P --> Q
     
-    style H fill:#e8f5e9
-    style P fill:#e3f2fd
-    style W fill:#fce4ec
+    style H fill:#c2d9c2
+    style P fill:#c2d9e6
+    style W fill:#e6c2d0
 ```
 
 ---
@@ -542,9 +542,9 @@ graph TD
     P --> Q
     P --> S
     
-    style P fill:#c8e6c9
-    style M fill:#ffccbc
-    style U fill:#b3e5fc
+    style P fill:#b3d9b5
+    style M fill:#d9b3a6
+    style U fill:#a6c9e6
 ```
 
 ---
@@ -588,10 +588,10 @@ flowchart LR
         R --> L
     end
     
-    style E fill:#e1f5fe
-    style L fill:#f3e5f5
-    style O fill:#ffebee
-    style R fill:#e8f5e9
+    style E fill:#c2d9e6
+    style L fill:#d9c2d9
+    style O fill:#e6c2c2
+    style R fill:#c2d9c2
 ```
 
 ---
@@ -683,11 +683,11 @@ graph LR
         O --> A
     end
     
-    style E fill:#ffcdd2
-    style F fill:#ffcdd2
-    style G fill:#ffcdd2
-    style L fill:#c8e6c9
-    style M fill:#c8e6c9
+    style E fill:#d9b3b8
+    style F fill:#d9b3b8
+    style G fill:#d9b3b8
+    style L fill:#b3d9b5
+    style M fill:#b3d9b5
 ```
 
 ---
@@ -725,10 +725,10 @@ graph LR
     C --> F[linkedin.com/in/tim-spurlin]
     D --> G[U.S. Air Force Veteran<br/>Honorably Discharged]
     
-    style A fill:#1976d2,color:#fff
-    style E fill:#4caf50,color:#fff
-    style F fill:#0077b5,color:#fff
-    style G fill:#dc143c,color:#fff
+    style A fill:#4A6FA5,color:#fff
+    style E fill:#6B8E6B,color:#fff
+    style F fill:#5B7C99,color:#fff
+    style G fill:#8B5555,color:#fff
 ```
 
 **Professional Availability:**
@@ -799,10 +799,10 @@ graph TB
         L --> M[National Defense Support]
     end
     
-    style A fill:#e3f2fd
-    style E fill:#f3e5f5
-    style J fill:#ffebee
-    style M fill:#e8f5e9
+    style A fill:#c2d9e6
+    style E fill:#d9c2d9
+    style J fill:#e6c2c2
+    style M fill:#c2d9c2
 ```
 
 ---
@@ -893,11 +893,11 @@ graph TD
     J --> O
     N --> O
     
-    style B fill:#e8f5e9
-    style D fill:#e3f2fd
-    style K fill:#f3e5f5
-    style S fill:#ffebee
-    style W fill:#fff9c4
+    style B fill:#c2d9c2
+    style D fill:#c2d9e6
+    style K fill:#d9c2d9
+    style S fill:#e6c2c2
+    style W fill:#e6e0b3
 ```
 
 ---
@@ -986,11 +986,11 @@ graph LR
     E --> E2[Automation]
     E --> E3[Scalable Solutions]
     
-    style A fill:#2196f3,color:#fff
-    style B fill:#4caf50,color:#fff
-    style C fill:#f44336,color:#fff
-    style D fill:#ff9800,color:#fff
-    style E fill:#9c27b0,color:#fff
+    style A fill:#5B7C99,color:#fff
+    style B fill:#6B8E6B,color:#fff
+    style C fill:#8B5555,color:#fff
+    style D fill:#A0826D,color:#fff
+    style E fill:#7A5A8A,color:#fff
 ```
 
 ---

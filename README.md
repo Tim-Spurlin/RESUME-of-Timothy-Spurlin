@@ -310,7 +310,7 @@ flowchart TB
 ## 🛠️ Technical Skills Matrix
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#8B7355', 'primaryTextColor':'#fff', 'primaryBorderColor':'#5D4E37', 'lineColor':'#A0826D', 'secondaryColor':'#5B7C99', 'tertiaryColor':'#6B8E6B'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#D4C4B0', 'primaryTextColor':'#2C2416', 'primaryBorderColor':'#8B7355', 'lineColor':'#A0826D', 'secondaryColor':'#8BA8C4', 'tertiaryColor':'#92B892'}}}%%
 mindmap
   root((Timothy Spurlin<br/>Technical Skills))
     Software Engineering

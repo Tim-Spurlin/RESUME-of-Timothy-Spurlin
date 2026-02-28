@@ -1,7 +1,7 @@
 # Timothy Christian Spurlin
 ## Software Engineer & Cybersecurity Professional
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tim--spurlin-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tim-spurlin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-christianspurlin93-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christianspurlin93)
 [![Location](https://img.shields.io/badge/Location-Brownsville%2C%20Texas-green?style=flat-square)](https://www.google.com/maps/place/Brownsville,+TX)
 [![Status](https://img.shields.io/badge/Status-U.S.%20Air%20Force%20Veteran-red?style=flat-square)](https://www.airforce.com)
 
@@ -722,7 +722,7 @@ graph LR
     A --> D[🎖️ Military Status]
     
     B --> E[Brownsville, Texas]
-    C --> F[linkedin.com/in/tim-spurlin]
+    C --> F[linkedin.com/in/christianspurlin93]
     D --> G[U.S. Air Force Veteran<br/>Honorably Discharged]
     
     style A fill:#4A6FA5,color:#fff
@@ -1007,7 +1007,7 @@ graph LR
 
 **Let's connect and build something exceptional together!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tim-spurlin)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christianspurlin93)
 
 </div>
 
